@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - Opties">
+<!ENTITY options.message "Bericht Selectie">
+<!ENTITY options.enable "Toestaan">
+<!ENTITY options.whichone "Welke...">
+<!ENTITY options.first "Eerste">
+<!ENTITY options.last "Laatste">
+<!ENTITY options.firstunread "Eerste Ongelezen">
+<!ENTITY options.firstflagged "Eerste Opgevolgd">
+<!ENTITY options.lastSelected "Laatste Selected">

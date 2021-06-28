@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - Možnosti">
+<!ENTITY options.message "Výběr zprávy">
+<!ENTITY options.enable "povolit">
+<!ENTITY options.whichone "Kterou zprávu vybrat:">
+<!ENTITY options.first "První">
+<!ENTITY options.last "Poslední">
+<!ENTITY options.firstunread "První nepřečtenou">
+<!ENTITY options.firstflagged "První s hvězdičkou">
+<!ENTITY options.lastSelected "Naposled vybráno">

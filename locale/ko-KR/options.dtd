@@ -1,0 +1,8 @@
+<!ENTITY selectinbox.dialog.selec0 "Select Inbox 1.1 - 선택사항">
+<!ENTITY selectinbox.caption.mess1 "메세지 선택">
+<!ENTITY selectinbox.checkbox.ena2 "사용">
+<!ENTITY selectinbox.caption.whic3 "어떤 것">
+<!ENTITY selectinbox.radio.first "첫번째">
+<!ENTITY selectinbox.radio.last "마지막">
+<!ENTITY selectinbox.radio.first.4 "읽지 않은 첫번째">
+<!ENTITY selectinbox.radio.first.5 "신호된 첫번째">

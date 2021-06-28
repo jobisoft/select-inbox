@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - Настройки">
+<!ENTITY options.message "Выбор сообщения">
+<!ENTITY options.enable "Включить">
+<!ENTITY options.whichone "Какое...">
+<!ENTITY options.first "Первое">
+<!ENTITY options.last "Последнее">
+<!ENTITY options.firstunread "Первое не прочитанное">
+<!ENTITY options.firstflagged "Первое отмеченное">
+<!ENTITY options.lastSelected "Последнее выбранное">

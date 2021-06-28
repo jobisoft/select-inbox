@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox ayarları">
+<!ENTITY options.message "Mesaj Seçimi">
+<!ENTITY options.enable "Etkin">
+<!ENTITY options.whichone "Bir tanesi...">
+<!ENTITY options.first "İlk">
+<!ENTITY options.last "Son">
+<!ENTITY options.firstunread "İlk okunmamış">
+<!ENTITY options.firstflagged "İlk işaretlenen">
+<!ENTITY options.lastSelected "Son seçilen">

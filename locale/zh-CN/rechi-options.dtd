@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - 选项">
+<!ENTITY options.message "选中消息">
+<!ENTITY options.enable "启用">
+<!ENTITY options.whichone "哪一条...">
+<!ENTITY options.first "第一条">
+<!ENTITY options.last "最后一条">
+<!ENTITY options.firstunread "第一条未读消息">
+<!ENTITY options.firstflagged "第一条已标记消息">
+<!ENTITY options.lastSelected "最近已选择">

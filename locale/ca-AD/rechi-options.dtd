@@ -1,0 +1,9 @@
+<!ENTITY options.title "Selecciona safata d&apos;entrada - Opcions">
+<!ENTITY options.message "Selecció de missatges">
+<!ENTITY options.enable "Permetre">
+<!ENTITY options.whichone "Quin...">
+<!ENTITY options.first "Primer">
+<!ENTITY options.last "Darrer">
+<!ENTITY options.firstunread "Primer sense llegir">
+<!ENTITY options.firstflagged "Primer marcat">
+<!ENTITY options.lastSelected "Darrer seleccionat">

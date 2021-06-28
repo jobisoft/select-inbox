@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - Параметри">
+<!ENTITY options.message "Вибір повідомлення">
+<!ENTITY options.enable "Включити">
+<!ENTITY options.whichone "Яке...">
+<!ENTITY options.first "Перше">
+<!ENTITY options.last "Останнє">
+<!ENTITY options.firstunread "Перше непрочитане">
+<!ENTITY options.firstflagged "Перше помічене">
+<!ENTITY options.lastSelected "Останнє вибране">

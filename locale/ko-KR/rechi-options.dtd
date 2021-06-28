@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - 선택사항">
+<!ENTITY options.message "메세지 선택">
+<!ENTITY options.enable "사용">
+<!ENTITY options.whichone "어떤 것...">
+<!ENTITY options.first "첫번째">
+<!ENTITY options.last "마지막">
+<!ENTITY options.firstunread "읽지 않은 첫번째">
+<!ENTITY options.firstflagged "깃발표시된 첫번째">
+<!ENTITY options.lastSelected "마지막 선택한 것">

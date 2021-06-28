@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - オプション">
+<!ENTITY options.message "メッセージを選択状態に">
+<!ENTITY options.enable "有効">
+<!ENTITY options.whichone "選択するのは...">
+<!ENTITY options.first "最初のメッセージ">
+<!ENTITY options.last "最後のメッセージ">
+<!ENTITY options.firstunread "最初の未読メッセージ">
+<!ENTITY options.firstflagged "最初のフラグ付きメッセージ">
+<!ENTITY options.lastSelected "前回選択していたメッセージ">

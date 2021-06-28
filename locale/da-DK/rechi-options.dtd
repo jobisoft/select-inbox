@@ -1,0 +1,9 @@
+<!ENTITY options.title "Select Inbox - Indstillinger">
+<!ENTITY options.message "Meddelelsesvalg">
+<!ENTITY options.enable "Aktiver">
+<!ENTITY options.whichone "Hvilken...">
+<!ENTITY options.first "Første">
+<!ENTITY options.last "Sidste">
+<!ENTITY options.firstunread "Første ulæste">
+<!ENTITY options.firstflagged "Første markerede">
+<!ENTITY options.lastSelected "Sidst valgte">

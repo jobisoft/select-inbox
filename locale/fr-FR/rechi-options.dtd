@@ -1,0 +1,9 @@
+<!ENTITY options.title "Options de Select Inbox">
+<!ENTITY options.message "Sélection de courriel">
+<!ENTITY options.enable "Activer">
+<!ENTITY options.whichone "Sélectionner :">
+<!ENTITY options.first "Le premier courriel">
+<!ENTITY options.last "Le dernier courriel">
+<!ENTITY options.firstunread "Le premier courriel non lu">
+<!ENTITY options.firstflagged "Le premier courriel disposant d&apos;un drapeau">
+<!ENTITY options.lastSelected "Dernier sélectionné">

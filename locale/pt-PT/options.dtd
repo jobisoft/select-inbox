@@ -1,0 +1,8 @@
+<!ENTITY selectinbox.dialog.selec0 "Opções do &quot;Select Inbox&quot;">
+<!ENTITY selectinbox.caption.mess1 "Selecionar mensagem">
+<!ENTITY selectinbox.checkbox.ena2 "Activar">
+<!ENTITY selectinbox.caption.whic3 "Qual mensagem?">
+<!ENTITY selectinbox.radio.first "Primeira">
+<!ENTITY selectinbox.radio.last "Última">
+<!ENTITY selectinbox.radio.first.4 "Primeira não-lida">
+<!ENTITY selectinbox.radio.first.5 "Primeira sinalizada">

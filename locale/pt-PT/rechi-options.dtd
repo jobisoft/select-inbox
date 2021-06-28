@@ -1,0 +1,9 @@
+<!ENTITY options.title "Opções do &quot;Select Inbox&quot;">
+<!ENTITY options.message "Selecionar mensagem">
+<!ENTITY options.enable "Activar">
+<!ENTITY options.whichone "Qual mensagem?">
+<!ENTITY options.first "Primeira">
+<!ENTITY options.last "Última">
+<!ENTITY options.firstunread "Primeira não-lida">
+<!ENTITY options.firstflagged "Primeira marcada">
+<!ENTITY options.lastSelected "Última seleccionada">
