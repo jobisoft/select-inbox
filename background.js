@@ -11,10 +11,10 @@ function log(...args) {
   if (debug) console.log(...args);
 }
 
-async function selectInbox (windowId) {
+async function selectInbox (windowId, timeoutReached = false) {
   log("selectInbox", windowId, tabCreateEvents[windowId].pending);
   if (tabCreateEvents[windowId].pending) {
-    tabCreateEvents[windowId].pending = false;
+    if (timeoutReached) tabCreateEvents[windowId].pending = false;
     
     // Switch to mailTab if there is one in this window.
     let activeTabs = await messenger.tabs.query({active:true, mailTab: true, windowId});
@@ -25,7 +25,8 @@ async function selectInbox (windowId) {
     log({activeTabs, inactiveTabs})
 
     // If there is a mailTab, switch to the inbox.
-    if (activeTabs.length + inactiveTabs.length > 0) {
+    if (activeTabs.length + inactiveTabs.length > 0 && !tabCreateEvents[windowId].selected) {
+      tabCreateEvents[windowId].selected = true;
       let mailTab = await messenger.mailTabs.query({windowId});
       log({mailTab})
       let account = await messenger.accounts.getDefault();
@@ -51,11 +52,12 @@ function collapseTabCreateEvents (windowId) {
   // pending.
   log("COLLAPSING?", windowId)
   if (tabCreateEvents[windowId].pending) {
+    selectInbox(windowId);
     log("COLLAPSING!", windowId);
     if (tabCreateEvents[windowId].timeout) {
       window.clearTimeout(tabCreateEvents[windowId].timeout);
     }
-    tabCreateEvents[windowId].timeout = window.setTimeout(() => selectInbox(windowId), TAB_DELAY);
+    tabCreateEvents[windowId].timeout = window.setTimeout(() => selectInbox(windowId, true), TAB_DELAY);
   }
 }
 
